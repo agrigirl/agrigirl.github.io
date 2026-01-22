@@ -1,10 +1,10 @@
 # AgriGirl — Kamana Kafle’s GIS & Remote Sensing Portfolio
 
-Welcome! I’m **Kamana Kafle**, a GIS Analyst, Agricultural Researcher, and advocate for sustainable farming and agri-leadership. Through my personal brand **AgriGirl**, I combine geospatial intelligence, scientific research, and community outreach to support climate resilience, precision agriculture, and data-driven decision-making.
+Welcome! I am **Kamana Kafle**, a GIS Analyst, Agricultural Researcher, and advocate for sustainable farming and agri-leadership. Through my personal brand **AgriGirl**, I combine geospatial intelligence, scientific research, and community outreach to support climate resilience, precision agriculture, and data-driven decision-making.
 
 This portfolio showcases my GIS projects, research experience, and technical skills developed through graduate studies, field programs, and professional roles in agriculture and environmental science.
 
----
+
 
 ## 🎓 Education
 
@@ -16,7 +16,7 @@ Research: *Factors Influencing Agricultural Students’ Intentions to Enter Prod
 Purwanchal University, Nepal (2021)  
 Dissertation: *Assessment of the Situation of Chemical Fertilizers in Nepal*
 
----
+
 
 ## 🛰️ Featured GIS Projects
 
@@ -36,7 +36,7 @@ Thematic map using Census block group data to visualize population distribution 
 Used MicaSense Altum drone imagery to calculate NDRE index and assess crop vigor.  
 → Workflow included reflectance layer import, raster calculator, and symbology interpretation.
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -45,7 +45,7 @@ Used MicaSense Altum drone imagery to calculate NDRE index and assess crop vigor
 - Pix4D | UAV Data Processing | Remote Sensing  
 - Statistical Analysis | Cartographic Design
 
----
+
 
 ## 📜 Certifications
 
@@ -55,7 +55,7 @@ Used MicaSense Altum drone imagery to calculate NDRE index and assess crop vigor
 - Sustainability Leadership (Himalayan Climate Initiative)  
 - Public Speaking Trainer (UNCON)
 
----
+
 
 ## 🏆 Honors & Recognition
 
@@ -65,7 +65,7 @@ Used MicaSense Altum drone imagery to calculate NDRE index and assess crop vigor
 - Next Generation Leader, Consumers International  
 - College Ambassador, A-State College of Agriculture
 
----
+
 
 ## 🔗 Live Portfolio Website
 
